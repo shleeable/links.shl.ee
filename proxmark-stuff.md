@@ -9,13 +9,14 @@ Supported firmware [https://github.com/RfidResearchGroup/ChameleonMini](https://
 
 Store: [https://lab401.com/products/proxgrind-chameleon-mini-revg](https://lab401.com/products/proxgrind-chameleon-mini-revg)
 
-
-
 ## Proxmark3
 
 [https://github.com/RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3)
 
 [http://www.icedev.se/pm3.aspx](http://www.icedev.se/pm3.aspx)  
-  
 
+
+## Proxmark VX
+
+Bricked?
 
